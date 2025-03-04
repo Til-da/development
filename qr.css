@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;700&display=swap');
+
+body{
+    background: hsl(212, 45%, 89%);
+    margin: 0px;
+    height: 100%;
+    font-family: 'Outfit', sans-serif;
+}
+
+.card{
+    background: hsl(0, 0%, 100%);
+   /* margin: 80px;*/
+    padding: 20px;
+
+    justify-self: center;
+    width: 235px;
+    height: 400px;
+    text-align: center;
+    
+    
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    place-items: center;
+  
+    
+    border-radius: 23px;
+}
+
+.qr-code{
+    width: 102%;
+    height: 61%;
+    display: flex;
+   border-radius: 9px;
+}
+
+.card h3{
+    color: hsl(218, 44%, 22%);
+
+    font-weight: 700;
+    
+}
+
+.card p{
+    color: hsl(216, 15%, 48%);
+
+    font-weight: 400;
+    font-size: 15px;
+
+   /* opacity: 59%;*/
+}
+.attribution{
+    font-size: 11px; text-align: center; 
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
