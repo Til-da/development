@@ -5,7 +5,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -14,13 +13,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Author](#author)
 
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
-
-### Screenshot
-
-![](./screenshot.jpg)
 
 ### Links
 
@@ -39,7 +33,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Learned to position a text at the bottom of the design. 
+Learned to position a text at the bottom of the design. Also learned how place a div at the center, tooka while before i could get it.
 
 code snippets:
 
