@@ -13,8 +13,8 @@ body{
     padding: 20px;
 
     justify-self: center;
-    width: 235px;
-    height: 400px;
+    width: 260px;
+    height: 455px;
     text-align: center;
     
     
@@ -29,8 +29,8 @@ body{
 }
 
 .qr-code{
-    width: 102%;
-    height: 61%;
+    width: 108%;
+    height: 64%;
     display: flex;
    border-radius: 9px;
 }
