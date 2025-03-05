@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: (https://67c713b23e952b00a79e1388--endearing-ganache-b4b4dc.netlify.app/)
+- Solution URL: (https://67c82285eb254cdb0a552dcb--voluble-cat-ebb441.netlify.app/)
 - Live Site URL: (http://127.0.0.1:5500/qr-code-component-main/index/index.html)
 
 ## My process
