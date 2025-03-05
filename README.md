@@ -20,8 +20,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](./screenshot.jpg)
-
+screenshot.jpeg
 ### Links
 
 - Solution URL: (https://67c713b23e952b00a79e1388--endearing-ganache-b4b4dc.netlify.app/)
